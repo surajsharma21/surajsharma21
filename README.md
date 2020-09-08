@@ -15,7 +15,7 @@
 - ML & Open Source enthusiast.
 - Graduated from NIT Raipur.
 - Currently working on some of my projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities in the field of Computer Vision.
+- Looking for opportunities to join as an intern/full time in Deep Learning fields.
 - I love to learn and contribute in any and every possible way.
 
 ### Languages and Tools:
