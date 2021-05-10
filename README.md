@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" />
 <img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 <img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" />
-<img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_azure/microsoft_azure-icon.svg" />
