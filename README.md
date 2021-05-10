@@ -12,10 +12,11 @@
 <br />
 
 ### I am Suraj Sharma
-- ML & Open Source enthusiast.
+- Working as Software Engineer.
 - Graduated from NIT Raipur.
-- Currently working on some of my projects based on Web Development and Machine Learning.
-- Looking for opportunities to join as an intern/full time in Deep Learning fields.
+- Currently working on projects based on Web Development and Data Handling in the Field of Orders and Retail.
+- Looking for opportunities to join as a full time in the field of Development and Data Handling.
+- I’ve always been passionate about finding smart ways to tackle the problems.
 - I love to learn and contribute in any and every possible way.
 
 ### Languages and Tools:
